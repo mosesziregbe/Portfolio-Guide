@@ -1,6 +1,6 @@
 # 🗺 Moses Tega's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! As a passionate data analyst, I love transforming raw data into actionable insights. Here, I document a summary of my projects in the data field. Each project demonstrates my commitment to data-driven storytelling and problem-solving.
 
 ## 📚 Table of Contents
 - [Power BI](#power-bi)
@@ -28,4 +28,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-Would you like to proceed with sharing your Python projects next?
+# Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 🎬 [BlumHouse Productions Analysis](https://github.com/mosesziregbe/BlumHouse-Productions-Movie-Analysis) | Web scraping, EDA, Financial Analysis | As a horror movie enthusiast, I analyzed Blumhouse Productions' unique business model of creating low-budget horror films. Scraped movie data to analyze ROI patterns, budget allocation strategies, and the correlation between critical reception and box office performance. | pandas, matplotlib, seaborn, beautifulsoup |    
+| 📺 [YouTube Channels Analysis](https://github.com/mosesziregbe/youtube_channels_EDA) | Data Cleaning, EDA | Conducted extensive analysis on 40,950 trending YouTube videos to understand viewing patterns, engagement metrics, and content performance. Investigated correlations between likes, views, and comments while examining category-specific trends and channel performance. | pandas, numpy, matplotlib |
+| 👟 [Adidas Sales Performance Analysis](https://github.com/mosesziregbe/adidas_usa_sales) | Sales Analysis, Market Research | Performed comprehensive analysis of Adidas sales data across US retailers and regions. Created visualizations to identify top-performing products, analyze regional sales patterns, and evaluate sales method effectiveness for strategic decision-making. | pandas, numpy, matplotlib, seaborn |
+
+***
+
