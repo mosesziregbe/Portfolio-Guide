@@ -3,7 +3,7 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Power BI](#powerbi)
+- [Power BI](#power-bi)
 - [SQL](#sql)
 - [Python](#python)
 
@@ -17,3 +17,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
+# SQL
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 💻 [SmartPrix Laptop Dataset Analysis](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL) | Data cleaning, data transformation, market analysis | Analyzed a dataset of 1,020 laptops from the Indian market using PostgreSQL. Performed comprehensive data cleaning, market trend analysis, and technical specifications comparison. Created interactive analysis notebooks combining SQL with Python for deeper insights. |
+| 🥖 [Bakery Sales Analysis](https://github.com/mosesziregbe/Bakery-Sales-Data-Cleaning-and-Analysis-using-PostgreSQL) | Data cleaning, EDA, business analytics | Conducted in-depth analysis of a South Korean bakery's sales data using PostgreSQL. Performed database normalization, explored sales patterns, product popularity, and customer behavior through multiple analytical phases. Uncovered key insights about seasonal trends and product combinations. |
+| 🦸 [DC Marvel Box Office Analysis](https://github.com/mosesziregbe/DC-Marvel-Box-office-Performance-Analysis-with-SQL) | Data analysis, comparative analysis | Analyzed superhero movie box office performance using SQL with focus on Marvel and DC franchises. Utilized window functions and advanced SQL techniques to compare revenue, profitability, and trends across franchises. |
+| 🍽️ [Atlanta Restaurant Reviews Analysis](https://github.com/mosesziregbe/Atlanta-Restaurant-Reviews-Data-Scrapping-and-Analysis) | Web scraping, data cleaning, EDA | Combined SQL and Python to analyze 580 Atlanta restaurants using data scraped from Google Maps. Used BeautifulSoup for web scraping additional restaurant details, and PostgreSQL for storing and analyzing review patterns, cuisine popularity, and rating trends. |
+
+***
+
+Would you like to proceed with sharing your Python projects next?
